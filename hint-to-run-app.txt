@@ -1,0 +1,3 @@
+Turn on terminal after clecking fraud_detection.py
+run this on terminal: python -m streamlit run fraud_detection.py
+You will get a host link and atomatically redirect to the app.

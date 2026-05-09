@@ -1,0 +1,9 @@
+1. Business Problem Statement
+        ↓
+2. Python Data Cleaning & Fraud Detection
+        ↓
+3. SQL Business Analysis
+        ↓
+4. Power BI Dashboard
+        ↓
+5. Business Insights & Recommendations

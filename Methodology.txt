@@ -1,0 +1,62 @@
+1. Data Collection
+A financial transaction dataset containing transaction details, customer information, transaction amounts, timestamps, and fraud labels will be collected from a publicly available source.
+
+2. Data Preprocessing
+Python will be used to clean and preprocess the dataset by:
+
+
+Handling missing values
+
+
+Removing duplicate records
+
+
+Converting data types
+
+
+Formatting date and time fields
+
+
+
+3. Exploratory Data Analysis (EDA)
+Exploratory analysis will be performed to understand:
+
+
+Transaction distribution
+
+
+Fraud frequency
+
+
+Transaction trends
+
+
+Behavioral patterns
+
+
+High-risk activities
+
+
+
+4. Statistical & Anomaly Analysis
+Statistical measures and anomaly detection techniques will be applied to identify unusual transaction behavior and assess fraud risk.
+
+5. SQL-Based Business Analysis
+SQL queries will be used to solve business-oriented fraud analysis problems such as:
+
+
+Identifying fraud hotspots
+
+
+Detecting high-risk transaction ranges
+
+
+Monitoring suspicious transaction timing
+
+
+Evaluating customer transaction behavior
+
+
+
+6. Data Visualization & Reporting
+Power BI dashboards and visualizations will be created to present fraud insights, risk indicators, and transaction monitoring metrics effectively.

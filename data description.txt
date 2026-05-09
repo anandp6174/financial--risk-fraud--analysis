@@ -1,0 +1,9 @@
+step : Step denotes a portion of the time period.
+type: Type of the transaction.
+amount : Amount involved in transaction.
+nameorig : Name of the source account.
+oldbalanceOrg: Old balance of source account.
+newbalanceOrig: New balance of source account.
+nameDest: Name of the target account.
+newbalanceDest : New balance of target account.
+isFraud : 1 means is Fraud 0 means its not.
