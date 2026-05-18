@@ -167,8 +167,6 @@ Financial-Risk-Fraud-Analysis/
 
 ---
 
-# Author
 
-Anand Pandey
 
 ```
